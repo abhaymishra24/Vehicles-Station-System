@@ -1,18 +1,19 @@
 
-# Stand_pickup
-Build by = Abhay Mishra 
-The stand pickup will be work on unlock and lock the bicycle and bike . In this format we will conduct the money system where after pay the money you can use the bicycle and bike , after payment of money amount the bicycle and bike will open accordingly.
+ <!-- Stand_pickup formate -->
 
-This is for build a comapny purpose project where anyone can contribute in this project. 
+ This is a Business site , this model work for business in online transport service from different Vahicales station.
 
-=======
-# Stand_pickup
 Build by = Abhay Mishra 
-The stand pickup will be work on unlock and lock the bicycle and bike . In this format we will conduct the money system where after pay the money you can use the bicycle and bike , after payment of money amount the bicycle and bike will open accordingly.
 
 This is for build a comapny purpose project where anyone can contribute in this project.
 
-This is for houre ride system. payment per hour to use bike aor other transport.
 
-The online payment system.
->>>>>>> 1a5ef52cb85044c4e53528dd0b4505a3f1877b62
+
+The stand pickup service will be a business-to-business operation, providing transportation services on a rental basis. This system will involve unlocking and locking bicycles, motorcycles, and other vehicles. Customers can make online payments to access vehicles from designated stations. Once the payment is processed, the corresponding vehicle will unlock based on the payment amount. This service operates on an hourly basis, charging customers for each hour of use.
+
+Here are three channels- 
+1- Vahicales Station 
+2- Money charges 
+3- Online and offline Money payments system
+4- Lock and Unlock Vahicales
+5- Count the meters of vahicales
