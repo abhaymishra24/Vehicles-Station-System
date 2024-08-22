@@ -17,3 +17,5 @@ Here are three channels-
 3- Online and offline Money payments system
 4- Lock and Unlock Vahicales
 5- Count the meters of vahicales
+6- Calculate the  time with money
+7- Money System.
