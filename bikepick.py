@@ -28,3 +28,7 @@ picked_bikes = pick_bikes(bikes, sequence)
 print("Bikes picked in sequence:")
 for bike in picked_bikes:
     print(bike)
+
+    # for calculate the money price in each bike
+      
+      
