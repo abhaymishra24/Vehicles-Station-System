@@ -1,7 +1,7 @@
 
- <!-- Stand_pickup formate -->
+ <--Stand_pickup Project-->
 
-"---This is a business project that offers an online transport service model for companies, with vehicles stationed at various locations.---"
+<---This is a business project that offers an online transport service model for companies, with vehicles stationed at various locations.--->
 
 <---Work By= Abhay Mishra--->
 
