@@ -1,7 +1,13 @@
 
 
-  
-  
+//   This code creates a combination lock, sets the combination to 1234, locks the bike, 
+//   and then attempts to unlock it using the combination.
+//   If the unlock fails, it uses the master code to unlock the bike.
+
+// To use the bike lock system, you can create an instance of Bikelock
+// with a specific lock type and use the provided methods to lock, unlock, and manage the lock.
+
+
   import java.util.Arrays;
 
 public class Bikelock {
@@ -69,3 +75,7 @@ public class Bikelock {
         }
     }
 }
+
+
+// You can extend this code to implement the unlock logic for RFID and fingerprint locks, 
+// or add more features as per your requirements.
