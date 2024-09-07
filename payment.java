@@ -1,4 +1,5 @@
 
+
 // To create a Java program that recognizes bikes and cars for individual payment processing,
 // you can follow an object-oriented approach. Below is a simple implementation that defines classes for Vehicle,
 // Bike, and Car, and calculates payment based on vehicle type.

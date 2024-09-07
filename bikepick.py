@@ -1,34 +1,41 @@
 
-class Bike:
-    def __init__(self, name):
-        self.name = name
 
-    def __str__(self):
-        return self.name
+                # <---Define a dictionary to store bike models and their prices--->
 
-bikes = [
-    Bike("Bike 1"),
-    Bike("Bike 2"),
-    Bike("Bike 3"),
-    Bike("Bike 4"),
-    Bike("Bike 5"),
-]
 
-def pick_bikes(bikes, sequence):
-    picked_bikes = []
-    for index in sequence:
-        picked_bikes.append(bikes[index])
-    return picked_bikes
+bike_prices = {
+    "Mountain Bike": 500,
+    "Road Bike": 700,
+    "Hybrid Bike": 600,
+    "Electric Bike": 1200,
+    "BMX Bike": 300
+}
 
-# Example sequence
-sequence = [2, 0, 4, 1, 3]
+def display_bike_prices():
+    """Display the prices of all bike models."""
+    print("Bike Prices:")
+    for bike, price in bike_prices.items():
+        print(f"{bike}: ${price}")
 
-picked_bikes = pick_bikes(bikes, sequence)
+def update_bike_price(bike_model, new_price):
+    """Update the price of a specific bike model."""
+    if bike_model in bike_prices:
+        bike_prices[bike_model] = new_price
+        print(f"Updated {bike_model} price to ${new_price}.")
+    else:
+        print(f"{bike_model} not found in the bike list.")
 
-print("Bikes picked in sequence:")
-for bike in picked_bikes:
-    print(bike)
+def main():
+    # Display the initial bike prices
+    display_bike_prices()
+    
+    # Update a bike price as an example
+    update_bike_price("Mountain Bike", 550)
+    
+    # Display the updated bike prices
+    display_bike_prices()
 
-    # for calculate the money price in each bike
+if __name__ == "__main__":
+    main()
       
       
