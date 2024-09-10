@@ -7,7 +7,7 @@
 
 <--This is for building a company-purpose project where anyone can contribute.🤝🚀 -->
 
-"The stand pickup service will be a business-to-business operation, providing transportation services on a rental basis. This system will involve unlocking and locking bicycles, motorcycles, and other vehicles. Customers can make online payments to access vehicles from designated stations. Once the payment is processed, the corresponding vehicle will unlock based on the payment amount. This service operates on an hourly basis, charging customers for each hour of use.!"
+"The stand pickup service will be a business-to-consumer operation, providing transportation services on a rental basis. This system will involve unlocking and locking bicycles, motorcycles, and other vehicles. Customers can make online payments to access vehicles from designated stations. Once the payment is processed, the corresponding vehicle will unlock based on the payment amount. This service operates on an hourly basis, charging customers for each hour of use.!"
 
 Here are three channels- 
 1- Vehicles Stations 
