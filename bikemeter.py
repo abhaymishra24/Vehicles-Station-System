@@ -4,8 +4,8 @@
 class BikeMeter:
     def __init__(self):
         self.distance_traveled = 0  # in kilometers
-        self.base_fare = 5.0         # base fare in currency units
-        self.per_km_rate = 2.0       # fare per kilometer in currency units
+        self.base_fare = 4.0         # base fare in currency units
+        self.per_km_rate = 2.5       # fare per kilometer in currency units
 
     def add_distance(self, kilometers):
         """Add distance traveled to the meter."""
