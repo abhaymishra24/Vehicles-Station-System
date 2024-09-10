@@ -11,7 +11,6 @@ public class Paymentsystem {
         double amount = scanner.nextDouble();
 
         System.out.println("Processing payment...");
-
         // Simulate payment processing
         boolean paymentSuccessful = processPayment(amount);
 
