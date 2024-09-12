@@ -1,4 +1,7 @@
- 
+
+
+
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -53,4 +56,33 @@ class Station {
         return vehicleTypeCount;
     }
 }
- 
+
+public class Bikecal {
+    public static void main(String[] args) {
+        // Create stations
+        Station station1 = new Station("Station A");
+        Station station2 = new Station("Station B");
+
+        // Create vehicles
+        Vehicle vehicle1 = new Vehicle("KA-01-HH-1234", "Car");
+        Vehicle vehicle2 = new Vehicle("KA-01-HH-5678", "Bike");
+        Vehicle vehicle3 = new Vehicle("KA-02-HH-9101", "Car");
+        Vehicle vehicle4 = new Vehicle("KA-02-HH-1121", "Truck");
+        Vehicle vehicle5 = new Vehicle("KA-01-HH-3141", "Bike");
+
+        // Add vehicles to stations
+        station1.addVehicle(vehicle1);
+        station1.addVehicle(vehicle2);
+        station2.addVehicle(vehicle3);
+        station2.addVehicle(vehicle4);
+        station1.addVehicle(vehicle5);
+
+        // Display vehicle counts
+        System.out.printf("Total vehicles at %s: %d%n", station1.getName(), station1.getVehicleCount());
+        System.out.printf("Total vehicles at %s: %d%n", station2.getName(), station2.getVehicleCount());
+
+        // Display vehicle types count
+        System.out.println("Vehicle types count at " + station1.getName() + ": " + station1.getVehicleTypesCount());
+        System.out.println("Vehicle types count at " + station2.getName() + ": " + station2.getVehicleTypesCount());
+    }
+}
