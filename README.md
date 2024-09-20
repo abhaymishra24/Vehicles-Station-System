@@ -15,5 +15,3 @@ Here are three channels-
 3- Online and offline Money payments system
 4- putting a price on time
 
-Add new section , new format , new design, new file work, new sequance, step by step.
-Add new step by step work and format add step step by file.
