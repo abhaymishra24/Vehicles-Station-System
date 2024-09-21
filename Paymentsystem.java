@@ -24,8 +24,10 @@ public class Paymentsystem {
     }
 
     private static boolean processPayment(double amount) {
+        
         // Simulate payment processing logic
         // In a real scenario, this method would interact with a payment gateway or process the payment internally
+       
         return amount > 0;
     }
 }
