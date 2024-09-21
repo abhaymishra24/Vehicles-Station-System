@@ -37,7 +37,7 @@ class Car extends Vehicle {
         super(licensePlate, 15.0); // Rental rate for car
     }
 
-    @Override
+    // Override
     public double calculatePayment(int hours) {
         return hours * rentalRate;
     }
