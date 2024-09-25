@@ -1,7 +1,7 @@
 
  # Stand_pickup Project (Vehicles Stations)
 
- ![Standpickup logo]()
+ ![Standpickup logo](https://github.com/abhaymishra24/Stand_pickup/blob/main/Bike%20rentel.jpg)
  
 This business project offers an online transport service model for companies, with vehicles stationed at various locations
 <-This is for building a company-purpose project where anyone can contribute.🤝🚀 ->
@@ -15,4 +15,6 @@ The stand pickup service will be a business-to-consumer operation, providing tra
 - Lock and Unlock Vehicles
 - Online and offline Money payments system
 - Putting a price on time
+
+
 
