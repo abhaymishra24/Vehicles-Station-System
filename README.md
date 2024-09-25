@@ -1,9 +1,10 @@
 
  # Stand_pickup Project (Vehicles Stations)
-
- ![Standpickup logo](https://github.com/abhaymishra24/Stand_pickup/blob/main/Bike%20rentel2.jpg)
+ 
 This business project offers an online transport service model for companies, with vehicles stationed at various locations
 <-This is for building a company-purpose project where anyone can contribute.🤝🚀 ->
+
+ ![Standpickup logo](https://github.com/abhaymishra24/Stand_pickup/blob/main/Bike%20rentel2.jpg)
 
 ## Overview 
 
