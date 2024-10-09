@@ -1,5 +1,5 @@
 
-// check online pyment segment for an online payment system
+// check online payment segment for an online payment Trnsaction
 
 import java.util.Scanner;
 
