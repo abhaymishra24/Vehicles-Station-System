@@ -1,9 +1,9 @@
 
- # Stand_pickup Project (Vehicles Stations)
+ # Stand-pickup Project (Vehicles Stations)
  
 This business project offers an online transport service model for companies, with vehicles stationed at various locations.
 <br/>
-<-This is for building a company-purpose project where anyone can contribute.🤝🚀 ->
+[ This is for building a company-purpose project where anyone can contribute.🤝🚀 ]
 
  ![Standpickup logo](https://github.com/abhaymishra24/Stand_pickup/blob/main/Bike%20rentel2.jpg)
 
@@ -33,7 +33,7 @@ The stand pickup service will be a business-to-consumer operation, providing tra
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
 
-For Discuss more about project, reach out to me (techabhay06@gmail.com)
+For discuss more about project, reach out to me (techabhay06@gmail.com)
 
 ## Thankyou for visit on this repository
 
