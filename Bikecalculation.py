@@ -1,12 +1,7 @@
- 
-
 
 # This is the code for calculating the number of bikes that are standing at Vhaicles station
 
 # here's a Python code snippet that calculates the number and type of bikes available at each statio
-
-
-
 
 
 class Bike:
