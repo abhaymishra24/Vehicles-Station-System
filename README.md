@@ -16,7 +16,7 @@ The stand pickup service will be a business-to-consumer operation, providing tra
 - With this service available in every city, you won't need to carry your vehicle everywhere.
 - Rent bikes or other vehicles at a lower price.
 
-### Tech Stack⚙️
+### Tech Stack💻
 - Python <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="java" width="20" height="20"/>
 
 - Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
