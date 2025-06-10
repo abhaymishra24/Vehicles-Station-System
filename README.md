@@ -21,6 +21,7 @@ The stand pickup service will be a business-to-consumer operation, providing tra
 
 - Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 
+###### [Currently, I am working only with these programming languages, but I would use other tech stacks depending on the application.]
 
 ### Here are three channels- 
 - Vehicles Stations. 
